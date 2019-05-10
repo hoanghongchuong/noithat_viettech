@@ -1,0 +1,68 @@
+@media (max-width: 767px){
+	.title_home{
+		font-size: 30px;
+	}
+	.box-service-home .col-xs-12{
+		margin-bottom: 20px;
+	}
+	.box-about-home{
+		/*margin-top: 50px;*/
+		padding: 20px;
+	}
+	.title-about-home{
+		font-size: 36px;
+		margin-top: 20px;
+	}
+	.about_home .row{
+		background-size: cover;
+	}
+	.list-hot-item{
+		display: block !important;
+	}
+	.short-des-home{
+		display: block !important;
+	}
+	.nav-tabs-custom .nav-tabs{
+		font-size: 18px;
+	}
+	.nav-tabs-custom .nav-tabs li{
+		margin-right: 5px;
+		margin-bottom: 10px;
+	}
+	.banner-about{
+		margin-top: 20px;
+		width: 100%;
+		float: left;
+	}
+	.news_home{
+		margin-bottom: 10px;
+	}
+	.box-contact-home{
+		margin-top: 10px;
+	}
+	.title-number-access{
+		margin-top: 30px;
+	}
+	.box_fix, .box_fixs{
+		display: block;
+	}
+	.list-hot-item .right img{
+		height: auto;
+	}
+	.rights .short-des-home {
+	    top: 110px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 999px){
+	.slider-for{
+		height: 400px;
+	}
+	
+}
+@media (min-width: 1000px) {
+	
+}
+@media (min-width: 1200px){
+	
+}
